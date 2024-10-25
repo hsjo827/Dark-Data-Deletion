@@ -24,15 +24,15 @@
 <br/> 
 
 ### 앱 소개
-![슬라이드0010](https://github.com/hsjo827/Competition/assets/133327403/7804a545-9d46-414c-ae2f-af3868efd6b8)
-![슬라이드0015](https://github.com/hsjo827/Competition/assets/133327403/67c5b03d-f1a1-41b0-af6d-32e100dd73fd)
-![슬라이드0016](https://github.com/hsjo827/Competition/assets/133327403/64664d5a-2713-4790-a52b-a73de6591135)
-![슬라이드0017](https://github.com/hsjo827/Competition/assets/133327403/b7c9bfce-076b-4a09-a082-cdabac4d0208)
-![슬라이드0018](https://github.com/hsjo827/Competition/assets/133327403/cbd61223-1be7-4168-8a2c-6474daacfdae)
-![슬라이드0018](https://github.com/hsjo827/Competition/assets/133327403/8af20780-a553-4e7d-ae04-161c144a56fc)
-![슬라이드0020](https://github.com/hsjo827/Competition/assets/133327403/69daa929-2684-4386-b4b1-ce4a43bb82e1)
-![슬라이드0021](https://github.com/hsjo827/Competition/assets/133327403/e2f59dcb-b3dd-4b95-b0df-570fba0cd38f)
-![슬라이드0022](https://github.com/hsjo827/Competition/assets/133327403/6874d057-0e83-47d4-b747-85fb2a292609)
+![3-1](https://github.com/user-attachments/assets/e6704389-e4f0-4438-9e43-165c79ce76b1)
+![3-2](https://github.com/user-attachments/assets/61b24598-b569-456e-848c-085b4e25e788)
+![3-3](https://github.com/user-attachments/assets/1cfdce9b-021f-4897-b5fe-662de76102df)
+![3-4](https://github.com/user-attachments/assets/4dea3b0e-17d6-4221-ae3c-883b3f9e6331)
+![3-6](https://github.com/user-attachments/assets/0bb63c53-6826-4069-b8db-b849dd047371)
+![3-8](https://github.com/user-attachments/assets/75582f1d-ce47-447a-982e-363d01b356c3)
+![3-9](https://github.com/user-attachments/assets/972ffb90-8fdc-4ed6-adb5-d9c3fcaeea7a)
+![3-10](https://github.com/user-attachments/assets/a9400747-2035-4da8-990d-50847c07342b)
+
 
 
 <br/> 
